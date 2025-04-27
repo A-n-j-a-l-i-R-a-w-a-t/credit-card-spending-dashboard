@@ -58,7 +58,7 @@ This project contains two Power BI reports that analyze credit card usage, trans
 
 | File Name                    | Description                                  |
 |-----------------------------|---------------------------------------------- |
-| CreditCardReport.pbix       | Power BI Report                               |
+| [CreditCardReport.pbix]CreditCardReport.pbix       | Power BI Report                               |
 | `CreditCardReports.pdf`      | Exported PDF containing both report pages    |
 
 ---
