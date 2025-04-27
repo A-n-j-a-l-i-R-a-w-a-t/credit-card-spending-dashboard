@@ -57,11 +57,8 @@ This project contains two Power BI reports that analyze credit card usage, trans
 ## 📁 Files Included
 
 | File Name                    | Description                                  |
-|-----------------------------|----------------------------------------------|
-| `CreditCardTransaction.pbix` | Power BI file for Transaction Report         |
-| `CreditCardCustomer.pbix`    | Power BI file for Customer Report            |
+|-----------------------------|---------------------------------------------- |
+| `CreditCardReport.pbix`     | Power BI Report                               |
 | `CreditCardReports.pdf`      | Exported PDF containing both report pages    |
-| `/assets/`                  | Folder with dashboard screenshots (optional) |
-| `/data/`                    | (Optional) Sample datasets used              |
 
 ---
